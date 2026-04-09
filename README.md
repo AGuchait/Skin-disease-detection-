@@ -191,10 +191,10 @@ This model was trained on the **Skin Diseases Image Dataset** from Kaggle.
 
 | Name | Role |
 |------|------|
-| **Arnab Guchait** | Python · TensorFlow · Deep Learning |
+| **Arnab Guchait** | Streamlit · UI Design · Python |
 | **Atanu Gayen** | Python · NumPy · Data Processing |
-| **Avijit Kushwaha** | Streamlit · UI Design · Python |
-| **Aryan Maity** | EfficientNet · Keras · Model Training |
+| **Avijit Kushwaha** |Python · TensorFlow · Deep Learning |
+| **Aryan Maity** | Testing · Keras · Model Training |
 | **Hrithika Chakraborty** | Dataset Curation · PIL · Image Processing |
 | **Hiranmay Patra** | Model Evaluation · TensorFlow · Testing |
 | **Ishan Sanyal** | Documentation · Python · Deployment |
