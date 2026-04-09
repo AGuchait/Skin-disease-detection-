@@ -121,7 +121,7 @@ dermacare-ai/
 streamlit run app_streamlit.py
 ```
 
-The app will automatically open in your browser at **http://localhost:8501** 🎉
+The app will automatically open in your browser at **http://localhost:8501 (After running the code)** 🎉
 
 ---
 
@@ -187,7 +187,7 @@ This model was trained on the **Skin Diseases Image Dataset** from Kaggle.
 
 ---
 
-## 👥 Team — Group B3
+## 👥 Team — 
 
 | Name | Role |
 |------|------|
@@ -199,9 +199,8 @@ This model was trained on the **Skin Diseases Image Dataset** from Kaggle.
 | **Hiranmay Patra** | Model Evaluation · TensorFlow · Testing |
 | **Ishan Sanyal** | Documentation · Python · Deployment |
 
-**Department:** Computer Science & Engineering  
-**Academic Year:** 2025 – 2026  
-**Project Type:** Final Year Project
+**Department:** Computer Applications
+
 
 ---
 
